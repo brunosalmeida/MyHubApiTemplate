@@ -1,3 +1,5 @@
+namespace Migrations;
+
 public class PostgresSettings
 {
     public string Server { get; set; }

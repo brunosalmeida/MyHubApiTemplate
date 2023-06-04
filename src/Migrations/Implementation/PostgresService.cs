@@ -1,4 +1,5 @@
 using Microsoft.Extensions.Logging;
+using Migrations;
 using Npgsql;
 
 public class PostgresService : IPostgresService
